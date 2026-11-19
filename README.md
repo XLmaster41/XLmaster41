@@ -15,9 +15,9 @@ target="_blank"></a>
   <a href="https://github.com/XLmaster41">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLmaster41&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
   </a>
-   <p align="center"> 
+   <a> 
      <img src="https://streak-stats.demolab.com?user=XLmaster41&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> 
-   </p>
+   </a>
 </div>
 
 
