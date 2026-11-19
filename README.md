@@ -1,3 +1,11 @@
+<h1>Gabriel Oliveira Neves</h1>
+<h3>Estudante de Ciência da Computação | Desenvolvimento de Software | Sistemas Embarcados</h3>
+<p>
+  Graduando em <strong>Ciência da Computação pela Universidade do Estado de Mato Grosso (UNEMAT)</strong>, interessado em desenvolvimento de software, sistemas embarcados, automação e tecnologia.
+</p>
+<p>
+  Atualmente, estudo e desenvolvo projetos utilizando <strong>C/C++, JavaScript, Arduino e ESP32</strong>, com foco na criação de soluções tecnológicas que integram software e hardware.
+</p>
 
 <div>
   <a href="https://www.instagram.com/gabriel.dev42/" target="_blank">  
