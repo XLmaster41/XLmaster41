@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/gabriel-neves-001418322/" target="_blank">  
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>  
   </a>  
-  <a href="https://github.com/XLmaster41" target="_blank"> 
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> 
+  <a href="https://discord.gg/hCaCyDZD" target="_blank"> 
+      <img src="https://img.shields.io/discord/:serverId" alt="GitHub"/> 
   </a>
 </div>
 
