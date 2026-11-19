@@ -23,10 +23,9 @@
   <a href="https://github.com/XLmaster41">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XLmaster41&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-
- <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLmaster41&layout=compact&langs_count=8&theme=github_dark" alt="Linguagens mais utilizadas" />
-</div>
+ <a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLmaster41&layout=compact&langs_count=8&theme=github_dark" alt="Linguagens mais utilizadas" />
+</a>
    <a> 
      <img src="https://streak-stats.demolab.com?user=XLmaster41&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> 
    </a>
