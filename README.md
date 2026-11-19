@@ -17,7 +17,9 @@ target="_blank"></a>
   </a>
 </div>
 
-<p align="center">   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XLmaster41&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLmaster41&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/> </p>
+<p align="center">   
+  <a href="https://github.com/XLmaster41">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=XLmaster41&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLmaster41&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/> </p>
 
 <p align="center">   <img src="https://streak-stats.demolab.com?user=XLmaster41&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
 
