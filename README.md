@@ -17,6 +17,10 @@ target="_blank"></a>
   </a>
 </div>
 
+<p align="center">   <img height="165" src="https://github-readme-stats.vercel.app/api?username=XLmaster41&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics"/>   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XLmaster41&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages"/> </p>
+
+<p align="center">   <img src="https://streak-stats.demolab.com?user=XLmaster41&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
+
 <div align="left">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
